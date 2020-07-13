@@ -5,7 +5,6 @@ import Main from './pages/main'
 
 import './styles.css';
 
-
 const App = () => (
   <div className="App">
     <Header />
